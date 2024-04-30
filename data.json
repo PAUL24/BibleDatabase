@@ -1,0 +1,91 @@
+[{
+    "id":1,
+    "language": "Afrikaans",
+    "title": "BYBEL"
+},
+{
+    "id":2,
+    "language": "Bengali",
+    "title": "পবিত্র বাইবেল"
+},
+{
+    "id":3,
+    "language": "English",
+    "title": "THE HOLY BIBLE"
+},
+{
+    "id":4,
+    "language": "Gujarati",
+    "title": "પવિત્ર બાઇબલ"
+},
+{
+    "id":5,
+    "language": "Hindi",
+    "title": "पवित्र बाइबिल"
+},
+{
+    "id":6,
+    "language": "Hungarian",
+    "title": "BIBLIA"
+},
+{
+    "id":7,
+    "language": "Indonesian",
+    "title": "ALKITAB"
+},
+{
+    "id":8,
+    "language": "Kannada",
+    "title": "ಪವಿತ್ರ ಬೈಬಲ್"
+},
+{
+    "id":9,
+    "language": "Malayalam",
+    "title": "സത്യവേദപുസ്തകം"
+},
+{
+    "id":10,
+    "language": "Marathi",
+    "title": "मराठी बायबल"
+},
+{
+    "id":11,
+    "language": "Nepali",
+    "title": "पवित्र बाइबल (सरल नेपाली)"
+},
+{
+    "id":12,
+    "language": "Oriya",
+    "title": "ବ୍ୟ ବାଇବଲ -"
+},
+{
+    "id":13,
+    "language": "Punjabi",
+    "title": "ਬਾਇਬਲ"
+},
+{
+    "id":14,
+    "language": "Sepedi",
+    "title": "Bibele"
+},
+{
+    "id":15,
+    "language": "Tamil",
+    "title": "வேதாகமம்"
+},
+{
+    "id":16,
+    "language": "Telugu",
+    "title": "పవిత్ర బైబిల్"
+},
+{
+    "id":17,
+    "language": "Xhosa",
+    "title": "IZHIBHALO EZINGCWELE"
+},
+{
+    "id":18,
+    "language": "Zulu",
+    "title": "IBHAYIBHELI"
+}
+]
